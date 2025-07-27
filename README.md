@@ -84,14 +84,19 @@ Merge made by the 'ort' strategy.
 
 git merge feature-auth
 ```
+
 <img width="418" height="146" alt="image" src="https://github.com/user-attachments/assets/ebccbdc5-e447-4b54-8930-fba3c457761e" />
+
 ```
 git merge feature-dashboard
 ```
+
 <img width="393" height="136" alt="image" src="https://github.com/user-attachments/assets/f449585d-d8d5-4149-9889-18a24e1fc198" />
+
 ```
 git reflog before intercative rebase:
 ```
+
 <img width="879" height="484" alt="image" src="https://github.com/user-attachments/assets/5d2de347-ddf8-4727-ac88-6df8ab43c9df" />
 
 <img width="878" height="276" alt="image" src="https://github.com/user-attachments/assets/6aae27cb-7e51-47e6-b145-7275403b6827" />
